@@ -72,5 +72,6 @@ outputs/charts/
 The final report is available in:
 
 report/AQI_Data_Science_Report.pdf
+report/AQI_RL_Assignment 4_Report.pdf
 
 All visualization screenshots are stored in:
